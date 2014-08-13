@@ -1,0 +1,18 @@
+{
+  "name": "pop-music-generator",
+  "version": "0.0.1",
+  "description": "Generate a pop song",
+  "keywords": [],
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shackbarth/pop-music-generator.git"
+  },
+  "author": "Steve Hackbarth",
+  "license": "MIT"
+}
