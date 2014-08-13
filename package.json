@@ -4,6 +4,8 @@
   "description": "Generate a pop song",
   "keywords": [],
   "dependencies": {
+    "hyphenation.en-us": "^0.2.1",
+    "hypher": "^0.2.1",
     "lodash": "~2.4.1"
   },
   "scripts": {
